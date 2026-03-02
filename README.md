@@ -31,7 +31,7 @@
   <a href="https://www.linkedin.com/in/yeliana-d%C3%ADaz-de-j-a92083285/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
   </a>
-  <a href="https://www.instagram.com/yeli2617">
+  <a href="https://www.instagram.com/yelianadev">
     <img src="https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram" />
   </a>
 </p>
